@@ -1,1 +1,1 @@
-# Insurance-claim-prediction
+# Insurace-Claim-Prediction-Machine-Learning-webApp
